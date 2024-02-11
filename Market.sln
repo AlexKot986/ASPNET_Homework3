@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoreMarket", "StoreMarket\StoreMarket.csproj", "{BEFB4AF6-CBF9-4789-9DD4-9AD5B1244C8C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StorageFacility", "StorageFacility\StorageFacility.csproj", "{340CFF05-C398-4778-9D8A-E289A0E6B741}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEFB4AF6-CBF9-4789-9DD4-9AD5B1244C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFB4AF6-CBF9-4789-9DD4-9AD5B1244C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEFB4AF6-CBF9-4789-9DD4-9AD5B1244C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEFB4AF6-CBF9-4789-9DD4-9AD5B1244C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{340CFF05-C398-4778-9D8A-E289A0E6B741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{340CFF05-C398-4778-9D8A-E289A0E6B741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340CFF05-C398-4778-9D8A-E289A0E6B741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{340CFF05-C398-4778-9D8A-E289A0E6B741}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEC9A5A2-A997-47A2-9304-8809F9C3C6D0}
+	EndGlobalSection
+EndGlobal
